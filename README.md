@@ -71,7 +71,7 @@ O sistema, escrito em <a href="https://www.javascript.com/">JavaScript</a>, é c
     <li><a href="https://github.com/expressjs/cors">Cors</a>: permite o acesso da aplicação Web ao servidor.</li>
   </ul>
   <br/>
-  <li>🖥️ <b>Web:</b> implementado com <a href="https://reactjs.org">ReactJS</a>, representa o frontend da aplicação e a interface na qual os pontos são cadastrados pela ONG logada.</li> 
+  <li>🖥️ <b>Web:</b> implementado com <a href="https://reactjs.org">ReactJS</a>, representa o frontend da aplicação e a interface na qual os casos são cadastrados pela ONG logada.</li> 
   <ul>
     <li><a href="https://github.com/axios/axios">Axios</a>: usado na construção da API responsável por fazer requisições ao servidor.</li>
     <li><a href="https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom">React-Router-DOM</a>: usado no roteamento das páginas da aplicação.</li>
